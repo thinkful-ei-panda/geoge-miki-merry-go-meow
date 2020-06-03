@@ -1,1 +1,1 @@
-# George/Miki Cat Carousel & Fizz Buzz Player Solutions
+# George/Miki Cat Carousel Solution
